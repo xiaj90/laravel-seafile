@@ -1,6 +1,6 @@
 <?php
 
-namespace Jiajiale\LaravelSeafile\Http;
+namespace Xiaj\LaravelSeafile\Http;
 
 use Psr\Http\Message\ResponseInterface;
 use Psr\Http\Message\UriInterface;

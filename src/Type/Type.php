@@ -1,11 +1,11 @@
 <?php
 
-namespace Jiajiale\LaravelSeafile\Type;
+namespace Xiaj\LaravelSeafile\Type;
 
 use DateTime;
 use CaseHelper\CaseHelperFactory;
 use Exception;
-use \Jiajiale\LaravelSeafile\Type\Account as AccountType;
+use \Xiaj\LaravelSeafile\Type\Account as AccountType;
 use stdClass;
 
 /**

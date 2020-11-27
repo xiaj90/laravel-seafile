@@ -1,9 +1,9 @@
 <?php
 
-namespace Jiajiale\LaravelSeafile\Resource;
+namespace Xiaj\LaravelSeafile\Resource;
 
 use Exception;
-use \Jiajiale\LaravelSeafile\Type\Group as GroupType;
+use \Xiaj\LaravelSeafile\Type\Group as GroupType;
 
 /**
  * Handles everything regarding Seafile groups.

@@ -1,5 +1,5 @@
 <?php
-namespace Jiajiale\LaravelSeafile;
+namespace Xiaj\LaravelSeafile;
 
 use Illuminate\Support\ServiceProvider;
 

@@ -1,8 +1,8 @@
 <?php
 
-namespace Jiajiale\LaravelSeafile\Type;
+namespace Xiaj\LaravelSeafile\Type;
 
-use \Jiajiale\LaravelSeafile\Type\Account as AccountType;
+use \Xiaj\LaravelSeafile\Type\Account as AccountType;
 use stdClass;
 
 /**

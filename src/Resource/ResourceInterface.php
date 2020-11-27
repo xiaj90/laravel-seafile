@@ -1,10 +1,10 @@
 <?php
 
-namespace Jiajiale\LaravelSeafile\Resource;
+namespace Xiaj\LaravelSeafile\Resource;
 
 /**
  * Interface ResourceInterface
- * @package Jiajiale\LaravelSeafile\Resource
+ * @package Xiaj\LaravelSeafile\Resource
  */
 interface ResourceInterface
 {

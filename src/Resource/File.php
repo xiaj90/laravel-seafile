@@ -1,14 +1,14 @@
 <?php
 
-namespace Jiajiale\LaravelSeafile\Resource;
+namespace Xiaj\LaravelSeafile\Resource;
 
 use Exception;
 use GuzzleHttp\Exception\GuzzleException;
 use InvalidArgumentException;
 use Psr\Http\Message\ResponseInterface;
-use Jiajiale\LaravelSeafile\Type\DirectoryItem;
-use Jiajiale\LaravelSeafile\Type\FileHistoryItem;
-use \Jiajiale\LaravelSeafile\Type\Library as LibraryType;
+use Xiaj\LaravelSeafile\Type\DirectoryItem;
+use Xiaj\LaravelSeafile\Type\FileHistoryItem;
+use \Xiaj\LaravelSeafile\Type\Library as LibraryType;
 
 /**
  * Handles everything regarding Seafile files.

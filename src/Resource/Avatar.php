@@ -1,12 +1,12 @@
 <?php
 
-namespace Jiajiale\LaravelSeafile\Resource;
+namespace Xiaj\LaravelSeafile\Resource;
 
 use Exception;
-use Jiajiale\LaravelSeafile\Type\Type;
-use \Jiajiale\LaravelSeafile\Type\Account as AccountType;
-use \Jiajiale\LaravelSeafile\Type\Group as GroupType;
-use \Jiajiale\LaravelSeafile\Type\Avatar as AvatarType;
+use Xiaj\LaravelSeafile\Type\Type;
+use \Xiaj\LaravelSeafile\Type\Account as AccountType;
+use \Xiaj\LaravelSeafile\Type\Group as GroupType;
+use \Xiaj\LaravelSeafile\Type\Avatar as AvatarType;
 
 /**
  * Handles everything regarding Seafile avatars.

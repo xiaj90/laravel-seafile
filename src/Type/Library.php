@@ -1,6 +1,6 @@
 <?php
 
-namespace Jiajiale\LaravelSeafile\Type;
+namespace Xiaj\LaravelSeafile\Type;
 
 use DateTime;
 use stdClass;

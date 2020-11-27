@@ -6,15 +6,15 @@
  * Time: 9:42
  */
 
-namespace Jiajiale\LaravelSeafile;
+namespace Xiaj\LaravelSeafile;
 
 
 use Illuminate\Support\Facades\Cache;
-use Jiajiale\LaravelSeafile\Http\Client;
-use Jiajiale\LaravelSeafile\Resource\Auth;
-use Jiajiale\LaravelSeafile\Resource\Directory;
-use Jiajiale\LaravelSeafile\Resource\File;
-use Jiajiale\LaravelSeafile\Resource\Library;
+use Xiaj\LaravelSeafile\Http\Client;
+use Xiaj\LaravelSeafile\Resource\Auth;
+use Xiaj\LaravelSeafile\Resource\Directory;
+use Xiaj\LaravelSeafile\Resource\File;
+use Xiaj\LaravelSeafile\Resource\Library;
 
 class Seafile
 {

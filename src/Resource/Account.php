@@ -1,11 +1,11 @@
 <?php
 
-namespace Jiajiale\LaravelSeafile\Resource;
+namespace Xiaj\LaravelSeafile\Resource;
 
 use Exception;
-use Jiajiale\LaravelSeafile\Type\Type;
-use \Jiajiale\LaravelSeafile\Type\Account as AccountType;
-use Jiajiale\LaravelSeafile\Type\TypeInterface;
+use Xiaj\LaravelSeafile\Type\Type;
+use \Xiaj\LaravelSeafile\Type\Account as AccountType;
+use Xiaj\LaravelSeafile\Type\TypeInterface;
 
 /**
  * Handles everything regarding Seafile accounts.

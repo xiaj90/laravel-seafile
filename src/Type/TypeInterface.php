@@ -1,6 +1,6 @@
 <?php
 
-namespace Jiajiale\LaravelSeafile\Type;
+namespace Xiaj\LaravelSeafile\Type;
 
 use DateTime;
 use Exception;
@@ -8,7 +8,7 @@ use stdClass;
 
 /**
  * Interface TypeInterface
- * @package Jiajiale\LaravelSeafile\Type
+ * @package Xiaj\LaravelSeafile\Type
  */
 interface TypeInterface
 {

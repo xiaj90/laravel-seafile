@@ -1,6 +1,6 @@
 <?php
 
-namespace Jiajiale\LaravelSeafile\Resource;
+namespace Xiaj\LaravelSeafile\Resource;
 
 /**
  * This is currently just a "facade" for the auth endpoint

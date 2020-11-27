@@ -1,13 +1,13 @@
 <?php
 
-namespace Jiajiale\LaravelSeafile\Resource;
+namespace Xiaj\LaravelSeafile\Resource;
 
 use Exception;
 use GuzzleHttp\Exception\GuzzleException;
 use GuzzleHttp\Psr7\Response;
-use Jiajiale\LaravelSeafile\Type\Library as LibraryType;
-use Jiajiale\LaravelSeafile\Type\SharedLink as SharedLinkType;
-use Jiajiale\LaravelSeafile\Type\SharedLinkPermissions;
+use Xiaj\LaravelSeafile\Type\Library as LibraryType;
+use Xiaj\LaravelSeafile\Type\SharedLink as SharedLinkType;
+use Xiaj\LaravelSeafile\Type\SharedLinkPermissions;
 
 /**
  * Handles everything regarding Seafile share links web API.

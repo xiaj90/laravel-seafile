@@ -10,16 +10,16 @@
     ],
     "autoload": {
         "psr-4": {
-            "Jiajiale\\LaravelSeafile\\": "src"
+            "Xiaj\\LaravelSeafile\\": "src"
         }
     },
     "extra": {
         "laravel": {
             "providers": [
-                "Jiajiale\\LaravelSeafile\\SeafileServiceProvider"
+                "Xiaj\\LaravelSeafile\\SeafileServiceProvider"
             ],
             "aliases": {
-                "Seafile": "Jiajiale\\LaravelSeafile\\Facades\\Seafile"
+                "Seafile": "Xiaj\\LaravelSeafile\\Facades\\Seafile"
             }
         }
     },

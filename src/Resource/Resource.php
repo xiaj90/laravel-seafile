@@ -1,8 +1,8 @@
 <?php
 
-namespace Jiajiale\LaravelSeafile\Resource;
+namespace Xiaj\LaravelSeafile\Resource;
 
-use Jiajiale\LaravelSeafile\Http\Client;
+use Xiaj\LaravelSeafile\Http\Client;
 
 /**
  * Abstract resource class

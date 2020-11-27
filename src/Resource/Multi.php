@@ -1,9 +1,9 @@
 <?php
 
-namespace Jiajiale\LaravelSeafile\Resource;
+namespace Xiaj\LaravelSeafile\Resource;
 
 use GuzzleHttp\Exception\GuzzleException;
-use \Jiajiale\LaravelSeafile\Type\Library as LibraryType;
+use \Xiaj\LaravelSeafile\Type\Library as LibraryType;
 
 /**
  * Handles everything regarding Seafile multi file/folder operations.

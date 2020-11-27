@@ -1,5 +1,5 @@
 <?php
-namespace Jiajiale\LaravelSeafile\Facades;
+namespace Xiaj\LaravelSeafile\Facades;
 
 use Illuminate\Support\Facades\Facade;
 

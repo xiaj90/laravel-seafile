@@ -1,12 +1,12 @@
 <?php
 
-namespace Jiajiale\LaravelSeafile\Resource;
+namespace Xiaj\LaravelSeafile\Resource;
 
 use Exception;
 use GuzzleHttp\Exception\GuzzleException;
-use Jiajiale\LaravelSeafile\Http\Client;
-use \Jiajiale\LaravelSeafile\Type\Library as LibraryType;
-use \Jiajiale\LaravelSeafile\Type\DirectoryItem;
+use Xiaj\LaravelSeafile\Http\Client;
+use \Xiaj\LaravelSeafile\Type\Library as LibraryType;
+use \Xiaj\LaravelSeafile\Type\DirectoryItem;
 
 /**
  * Handles everything regarding Seafile starred files.
